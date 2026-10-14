@@ -694,3 +694,12 @@ h1 em {
     font-size: 0.72rem;
   }
 }
+
+/* Trademark mark on GEOCEL: small and raised so the heading keeps its weight. */
+.tm {
+  font-size: 0.5em;
+  font-weight: 500;
+  vertical-align: super;
+  margin-left: 0.08em;
+  line-height: 0;
+}
